@@ -5,8 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Description
 
 This project demonstrates Redux with Angular 7.
-It also includes DevExtreme (HTML5 JavaScript Component Suite for Responsive Web Development)
+
+It also includes DevExtreme (HTML5 JavaScript Component Suite for Responsive Web Development).
+
 You can learn about DevExtreme here: https://js.devexpress.com/
+
 You can learn about Redux here: https://redux.js.org/
 
 ## Development server
